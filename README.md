@@ -9,7 +9,7 @@ Import the .unitypackage or the AnimatorControllerFixer folder into your Unity p
 
 A: Right click on your .controller file in your Project view, then choose an option from the Animation Controller Fixes submenu, or
 ![image](https://user-images.githubusercontent.com/46183407/164161141-728d5e97-d339-443f-93bd-2bf918d362b6.png)
-B: Left click your .controller file in your Prject view, then press one of the corresponding hotkey combinations.
+B: Left click your .controller file in your Project view, then press one of the corresponding hotkey combinations.
 
 
 
